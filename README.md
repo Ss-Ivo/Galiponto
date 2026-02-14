@@ -1,5 +1,5 @@
 # 🐔 Galiponto – Sistema de Gerenciamento Avícola
-https://galipo.vercel.app?_vercel_share=NXEWvQhYfPN7TThNoEUCqowqXdrEwizM
+[https://galipo.vercel.app?_vercel_share=NXEWvQhYfPN7TThNoEUCqowqXdrEwizM](https://galipo-bnyncpyvg-iss-projects-c57e8e8f.vercel.app)
 > ⚡ **TL;DR**  
 > Plataforma **full stack** para gerenciamento avícola, com backend em **Flask**, frontend em **React + TypeScript** e banco de dados **PostgreSQL (Supabase)**.  
 > Desenvolvido como projeto de portfólio e aplicação prática para resolver problemas reais de gestão.
