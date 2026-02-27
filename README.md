@@ -2,7 +2,7 @@
 https://galipo-bnyncpyvg-iss-projects-c57e8e8f.vercel.app
 > Plataforma **full stack** para gerenciamento avícola, com backend em **Flask**, frontend em **React + TypeScript** e banco de dados **PostgreSQL (Supabase)**.  
 > Desenvolvido como projeto de portfólio e aplicação prática para resolver problemas reais de gestão.
-
+Video: https://drive.google.com/file/d/14iVNgEECUax54vgPS2t24iOqzJgMJmcI/view?usp=drivesdk
 ---
 
 ## 🎯 Sobre o Projeto
